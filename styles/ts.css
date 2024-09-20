@@ -71,11 +71,11 @@ body {
 
 
 .sidebar {
-    display: flexbox;
+    display: inline-flexbox;
     padding: 60px;
     border: 1px solid black;
     background-color: beige;
-    margin-left: 15px;
+    margin-left: 30px; 
 }
 
 
